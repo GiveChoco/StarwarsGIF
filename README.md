@@ -29,7 +29,7 @@ To run this notebook, you need to set up API for:
 
 1. SWAPI to retrieve a random character
 
-2. # GIPHY API (for GIF search)
+2. GIPHY API (for GIF search)
 
 Navigate to [https://developers.giphy.com/docs/api/endpoint](https://developers.giphy.com/docs/api/endpoint) and register for developers account.
 
